@@ -21,7 +21,7 @@ DATA ANALYTICS EXAM
     1. Tasks #1 and #2 should be done in a spreadsheet. (Google Sheets, Excel, or Libreoffice Calc). 
     2. For the rest of the tasks, you can use any software or programming language you want.
 5. **Submitting each task**
-    1. After completing each task, make a git "commit" and "push" it to your solution repo (see tasks #s 0a, 0b, 0c).
+    1. After completing each task, make a git "commit" and "push" it to your solution repo (see tasks #s 0i, 0ii, 0iii).
     2. Don't wait until the end of the exam to push everything, push tasks as you complete them during the exam.
     3. If you want to make changes to the previous tasks later during the exam, that's fine -- I just want to be able to observe your working process, and see a minimum of one commit per task.  
     4. Include a useful/concise commit message for each commit of about one sentence or 5-to-15 words.
