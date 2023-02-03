@@ -34,7 +34,7 @@ DATA ANALYTICS EXAM
 ## Tasks:
 - **Task 0**
     1. If you don't have much experience with git, then [this tutorial](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) probably has the bare minimum of git you need to know.  Plus you need to know how to use `git pull`.  I suggest you make a repo and build a practice project, making commits, pushing commits, and pulling the latest state, so you can be comfortable doing the exam.
-    2. Using your personal github account, create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com. This is your "solution repo"
+    2. Using your personal github account, create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com. This is your "solution repo".
     3. `git clone` the repo https://github.com/viebeg-tech/HoT_2023_02a.  This is the "exam repo".
     4. Get ready to `git pull` updates to viebeg-tech/HoT_2023_02a.
 - *Remaining tasks to-be-provided at the beginning of the preparation period, at ####h Kigali time, @@@day, Feb ##, 2023.*
