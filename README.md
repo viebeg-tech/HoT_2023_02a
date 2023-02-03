@@ -17,9 +17,10 @@ DATA ANALYTICS EXAM
     1. Perform the tasks in the order provided, without skipping.
     2. A candidate that did not complete all the tasks may still succeed.
     3. But if you can complete all of them within-time, done well, I will be impressed!
-4. **Software and coding languages**
-    1. Tasks #1 and #2 should be done in a spreadsheet. (Google Sheets, Excel, or Libreoffice Calc). 
+4. **Software, coding languages, consulting online references**
+    1. Tasks #1 and #2 should be done in a spreadsheet. (Google Sheets, Excel, or Libreoffice Calc).
     2. For the rest of the tasks, you can use any software or programming language you want.
+    3. For all tasks, you can check whatever online websites you like, as long as you're doing all the work yourself.
 5. **Submitting each task**
     1. After completing each task, make a `git commit` and `git push` it to your solution repo (see tasks #s 0i, 0ii, 0iii).
     2. Don't wait until the end of the exam to push everything, push tasks as you complete them during the exam.
@@ -27,8 +28,8 @@ DATA ANALYTICS EXAM
     4. Include a useful/concise commit message for each commit of about one sentence or 5-to-15 words.
     5. Include all your data, code, and documentation in the repo: all your exam solution submissions should be in the repo.
 6. **Documentation of work**
-    1. Include thorough documentation/comments along with all your work, including code, spreadsheets, and especially manual edits (if any).  
-    2. Documentation is a key part of the evaluation.
+    1. Include reasonably good documentation/comments along with all your work, including code, spreadsheets, and especially manual edits (if any).  
+    2. Clarity of documentation is part of the evaluation.
     3. You can include documentation as code comments and text in spreadsheet cells. If you want, you can provide an additional text file `documentation.txt` of explanations/discussions, as you prefer.
 
 ## Tasks:
