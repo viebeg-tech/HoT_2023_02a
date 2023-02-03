@@ -11,11 +11,11 @@ DATA ANALYTICS EXAM
 2. **Instructions**
     1. All instructions will be pushed to this repo.
     2. If you have questions about the directions and task #0, welcome to ask me at your earliest convenience by email (steven@viebeg.com).
-    3. I will be available to answer questions by email during preparation and test periods.  Hopefully I can answer all the questions during the preparation period, but I will be available during the test period as well.
+    3. I will be available to answer questions by email during preparation and test periods.  Hopefully I can answer any & all questions about the tasks during the preparation period, but I will be available during the test period as well.
     4. Responses to any questions will be pushed as "Updates" to this "README.txt", below the tasks, so you may refresh this repo every 15 minutes or so during the exam and preparation periods to check for updates.
 3. **Sequence of tasks**
     1. Perform the tasks in the order provided, without skipping.
-    2. A candidate that did not complete all the tasks may succeed.
+    2. A candidate that did not complete all the tasks may still succeed.
     3. But if you can complete all of them within-time, done well, I will be impressed!
 4. **Software and coding languages**
     1. Tasks #1 and #2 should be done in a spreadsheet. (Google Sheets, Excel, or Libreoffice Calc). 
@@ -33,9 +33,9 @@ DATA ANALYTICS EXAM
 
 ## Tasks:
 - **Task 0**
-    1. Create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com.
-    2. Clone the repo https://github.com/viebeg-tech/HoT_2023_02a_exam.
-    3. Get ready to "git pull" updates to viebeg-tech/HoT_2023_02a_exam.
+    1. Create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com. This is your "solution repo"
+    2. Clone the repo https://github.com/viebeg-tech/HoT_2023_02a.  This is the "exam repo".
+    3. Get ready to "git pull" updates to viebeg-tech/HoT_2023_02a.
 - [Remaining tasks to-be-provided at the beginning of the preparation period, at ####h Kigali time, @@@day, Feb ##, 2023.]
 
 ## Notes and Updates:
