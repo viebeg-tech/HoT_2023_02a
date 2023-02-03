@@ -4,10 +4,10 @@ DATA ANALYTICS EXAM
 
 ## Directions:
 1. **Exam timing**
-  1. Directions and task #0 are already posted, so please review these and complete task #0 at your earliest convenience, before the exam date. 
-  2. At ####h Kigali time, @@@day Feb ## 2023, the remaining tasks will be posted to this file "README.md". Then you have a 1-hour "preparation period" to read the tasks and prepare. 
-  1. At ####h Kigali time, I will git-push the data file for this exam. Make sure you git-pull/refresh the repo at this time so you can get started. Then you have a 2-hour "test period" to complete the rest of the tasks.
-  2. At ####h Kigali time, I will clone all of your repos, and I will use their state at that time to do evaluation.
+    1. Directions and task #0 are already posted, so please review these and complete task #0 at your earliest convenience, before the exam date. 
+    2. At ####h Kigali time, @@@day Feb ## 2023, the remaining tasks will be posted to this file "README.md". Then you have a 1-hour "preparation period" to read the tasks and prepare. 
+    3. At ####h Kigali time, I will git-push the data file for this exam. Make sure you git-pull/refresh the repo at this time so you can get started. Then you have a 2-hour "test period" to complete the rest of the tasks.
+    4. At ####h Kigali time, I will clone all of your repos, and I will use their state at that time to do evaluation.
 2. **Instructions**
   1. All instructions will be pushed to this repo.
   2. If you have questions about the directions and task #0, welcome to ask me at your earliest convenience by email (steven@viebeg.com).
