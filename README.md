@@ -33,7 +33,7 @@ DATA ANALYTICS EXAM
 
 ## Tasks:
 - **Task 0**
-    1. Create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com. This is your "solution repo"
+    1. Using your personal github account, create a new public git repo named "Viebeg_HoT_2023_02a_solution", and email a link to your new repo to steven@viebeg.com. This is your "solution repo"
     2. Clone the repo https://github.com/viebeg-tech/HoT_2023_02a.  This is the "exam repo".
     3. Get ready to "git pull" updates to viebeg-tech/HoT_2023_02a.
 - [Remaining tasks to-be-provided at the beginning of the preparation period, at ####h Kigali time, @@@day, Feb ##, 2023.]
