@@ -38,6 +38,6 @@ DATA ANALYTICS EXAM
     3. Get ready to "git pull" updates to viebeg-tech/HoT_2023_02a_exam.
 - [Remaining tasks to-be-provided at the beginning of the preparation period, at ####h Kigali time, @@@day, Feb ##, 2023.]
 
-Notes and Updates:
+## Notes and Updates:
 *Any changes to this document after 2023-02-## will be referenced in a note here.*
 1. A reference to the source of the data used in this exam will provided after the exam.
